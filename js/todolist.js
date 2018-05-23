@@ -1,3 +1,4 @@
+window.setTimeout(function() {
 
 var tasks = ["Fight evil by moonlight"];
 var input = prompt("What would you like to do?");
@@ -6,7 +7,9 @@ var input = prompt("What would you like to do?");
 while (input !== "quit") {
   //handle input
   if (input === "list"){
-    alert(tasks);
+    tasks.forEach(function(todo) {
+      alert(todo);
+    });
   }else if (input === "new") {
     //ask for a new task
   var newtask = prompt("Enter your new task:")
@@ -17,3 +20,5 @@ while (input !== "quit") {
   input = prompt("What would you like to do?");
 }
 alert("OK, quitting app. Goodbye!");
+
+}, 500);
