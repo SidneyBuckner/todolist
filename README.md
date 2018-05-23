@@ -2,7 +2,6 @@
 ---
 ## A simple JavaScript Application Exercise.
 
----
 
 Welcome to my first independent project! To Do List is a simple application
 using my knowledge of JavaScript Arrays.   
