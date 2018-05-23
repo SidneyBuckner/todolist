@@ -1,7 +1,7 @@
 # To Do List!
 
 ## A simple JavaScript Application Exercise.
-
+---
 Welcome to my first independent project! To Do List is a simple application
 using my knowledge of JavaScript Arrays.   
 
@@ -23,7 +23,7 @@ will come in the next updates
 
 + Initial Repository created: 5/23/2018
 + Created a delete feature which removes and item from the list: 5/23/2018
-+ 
++
 
 ---
 ###### Assets and code created by Sidney Buckner. May 2018.
