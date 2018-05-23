@@ -1,6 +1,8 @@
 #To Do List!
-
+---
 ##A simple JavaScript Application Exercise.
+
+---
 
 Welcome to my first independent project! To Do List is a simple application
 using my knowledge of JavaScript Arrays.   
@@ -15,9 +17,11 @@ will come in the next updates
 +Type "list" to see all tasks in your list
 +Type "quit" to exit the application
 
+---
+
 ##### Updates:
 
 +Initial Repository created: 5/23/2018
 +
-
+---
 ###### Assets and code created by Sidney Buckner. May 2018.
